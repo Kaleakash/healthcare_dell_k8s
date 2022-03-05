@@ -1,0 +1,13 @@
+backend problem statement with solution GIT URL 
+
+https://github.com/Kaleakash/dell_simplilearn_backend_ehealth-care_problem_statement.git
+
+frontend problem statement with solution GIT URL 
+
+https://github.com/Kaleakash/dell_simplilearn_frontend_ehealth-care_problem_statement.git
+
+e-health care problem statement and solutions GIT URL 
+
+https://github.com/Kaleakash/dell_simplilearn_ehealth-care_problem_statement_with_solutions.git
+
+

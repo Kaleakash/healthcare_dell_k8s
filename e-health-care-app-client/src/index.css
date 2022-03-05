@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.imageDiv{
+  display: inline-table;
+  width: 250px;
+  height: 200px;
+  margin: 10px;
+  float: left;
+}
+.colDivImage{
+  border: red 1px solid;
+  border-radius: 10px;
+  
+}
+
+body {
+  background-image: url("https://img.freepik.com/free-vector/healthcare-medical-background-with-cardiograph-line-plus-sign_1017-24822.jpg?size=626&ext=jpg");
+  background-repeat: no-repeat;
+  background-size: 1600px 800px;
+  background-repeat: repeat-y;
+}
